@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pofo/static/css/main.fc2f9385.css",
+    "main.css": "/pofo/static/css/main.e49973cb.css",
     "main.js": "/pofo/static/js/main.3e2d7b6f.js",
     "static/js/787.1ed0c42c.chunk.js": "/pofo/static/js/787.1ed0c42c.chunk.js",
     "static/media/img3c.png": "/pofo/static/media/img3c.462371319aa0071f93a1.png",
@@ -8,12 +8,12 @@
     "static/media/img1c.png": "/pofo/static/media/img1c.c2e35644038ee7227f58.png",
     "static/media/logo.svg": "/pofo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pofo/index.html",
-    "main.fc2f9385.css.map": "/pofo/static/css/main.fc2f9385.css.map",
+    "main.e49973cb.css.map": "/pofo/static/css/main.e49973cb.css.map",
     "main.3e2d7b6f.js.map": "/pofo/static/js/main.3e2d7b6f.js.map",
     "787.1ed0c42c.chunk.js.map": "/pofo/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2f9385.css",
+    "static/css/main.e49973cb.css",
     "static/js/main.3e2d7b6f.js"
   ]
 }
